@@ -12,5 +12,5 @@ elif RatMovie >= 3 and PopularityScore > 70:
 elif RatMovie <= 2 and PopularityScore > 60:
 	print('You should check it out!')
 
-elif RatMovie <= 2 and PopularityScore < 50:
+else:
 	print("Don't watch it, It is a waste of time")
