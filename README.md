@@ -1,4 +1,4 @@
-# Day4-Lab2-Condition
+# Python-Lab2-Conditions
 
 You want to recommend a movie to a friend based on the rating and popularity. To accomplish this do the following:
 
